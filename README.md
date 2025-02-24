@@ -28,14 +28,14 @@ miniImageNet data should be [downloaded](https://github.com/yaoyao-liu/mini-imag
 ### Training
 To train on MiniImageNet, run the following command:
 ```bash
-bash train.py
+python train.py
 ```
 ### Testing
 We also privode the [trained model](https://portland-my.sharepoint.com/:u:/g/personal/yuxuanluo4-c_my_cityu_edu_hk/EdgIDLhrHO5EmkyL6boHJUwBpuPIjvxzETqj0cJW3XfwtQ?e=znqwWK) on MiniImageNet.
 Download the model and place it in the './checkpoints' folder.
 Then, to test the model, run the following command:
 ```bash
-bash test.py
+python test.py
 ```
 ## Citation
 ```
